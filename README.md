@@ -31,7 +31,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codenarocode&show_icons=true&locale=en&layout=compact" alt="codenarocode" /></p>
 
-<p style="margin-top:10;">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codenarocode&show_icons=true&locale=en" alt="codenarocode" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codenarocode&show_icons=true&locale=en" alt="codenarocode" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codenarocode&" alt="codenarocode" /></p>
 
