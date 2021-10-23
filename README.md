@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [Link Tracker](https://github.com/codenarocode/link-tracker)
 
-- 🌱 I’m currently learning **NodeJS  ExpressJS**
+- 🌱 I’m currently learning **React.js**
 
 - 📫 How to reach me **narottamishra67@gmail.com**
 
