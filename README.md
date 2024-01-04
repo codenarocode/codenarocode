@@ -5,7 +5,7 @@
 
  <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codenarocode" alt="codenarocode" /></a> </p> -->
 
-<p align="left"> <a href="https://twitter.com/narotiic" target="blank"><img src="https://img.shields.io/twitter/follow/codenarocode?logo=twitter&style=for-the-badge" alt="codenarocode" /></a> </p> 
+
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1714010/screenshots/10822383/media/ea98dfbdc8c2a056427061871bb42edc.gif" alt="coding">
 
 - 🔭 I’m currently working on [Blog-App]()
