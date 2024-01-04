@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/narotiic" target="blank"><img src="https://img.shields.io/twitter/follow/narotiic?logo=twitter&style=for-the-badge" alt="narotiic" /></a> </p> 
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1714010/screenshots/10822383/media/ea98dfbdc8c2a056427061871bb42edc.gif" alt="coding">
 
-- 🔭 I’m currently working on [Excel Clone]()
+- 🔭 I’m currently working on [Blog-App]()
 
 - 🌱 I’m currently learning **React**
 
