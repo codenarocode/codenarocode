@@ -3,9 +3,9 @@
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=codenarocode&label=Profile%20views&color=0e75b6&style=flat" alt="codenarocode" /> </p>
 
-<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codenarocode" alt="codenarocode" /></a> </p> -->
+ <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codenarocode" alt="codenarocode" /></a> </p> -->
 
-<p align="left"> <a href="https://twitter.com/narotiic" target="blank"><img src="https://img.shields.io/twitter/follow/narotiic?logo=twitter&style=for-the-badge" alt="narotiic" /></a> </p> 
+<p align="left"> <a href="https://twitter.com/narotiic" target="blank"><img src="https://img.shields.io/twitter/follow/codenarocode?logo=twitter&style=for-the-badge" alt="codenarocode" /></a> </p> 
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1714010/screenshots/10822383/media/ea98dfbdc8c2a056427061871bb42edc.gif" alt="coding">
 
 - 🔭 I’m currently working on [Blog-App]()
@@ -32,9 +32,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codenarocode&" alt="codenarocode" /></p> -->
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=codenarocode&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=codenarocode&theme=dark&hide_border=false&include_all_commits=false&count_private=false)   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=codenarocode&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=codenarocode&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=codenarocode&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=codenarocode&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
